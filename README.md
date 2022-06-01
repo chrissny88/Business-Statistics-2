@@ -1,0 +1,1 @@
+In order to understand the effectiveness of each of the different diets for weight loss,we have been asked to perform a statistical analysis to find evidence of whether the mean weight losses with respect to the three diet plans are significantly different
